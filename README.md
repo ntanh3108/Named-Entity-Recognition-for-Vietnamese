@@ -1,1 +1,1 @@
-# Named-Entity-Recognition-for-Vietnamese
+# Named Entity Recognition for Vietnamese using LSTM
